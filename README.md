@@ -17,7 +17,7 @@ Both branches are concatenated and passed through dense layers for binary classi
 
 **LIAR Dataset** - A benchmark dataset for fake news detection containing ~12K human-labeled statements from PolitiFact.
 
-- **Source:** [Kaggle](https://www.kaggle.com/datasets/msudhan/liar-dataset)
+- **Source:** https://www.cs.ucsb.edu/~william/data/liar_dataset.zip
 - **Paper:** William Yang Wang, "Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection, ACL 2017
 
 ### Label Mapping (Binary Classification)
